@@ -1,0 +1,7 @@
+package com.ok.java.datatypes;
+
+public class Java {
+    public static void main(String args[]){
+        System.out.println("Hello");
+    }
+}
